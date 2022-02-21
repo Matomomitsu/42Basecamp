@@ -1,1 +1,1 @@
-Exercises done during the 42 SP Basecamp
+# Exercises done during the 42 SP Basecamp
